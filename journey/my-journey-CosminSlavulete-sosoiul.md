@@ -27,3 +27,5 @@ Mentorat și Suport: Ghidați de profesioniști experimentați care să mă ajut
 Actualizări și Noutăți din Domeniu: Acces la cele mai recente tendințe și tehnologii în testare și IT.
 
 Dezvoltare Personală și Profesională: Workshopuri și sesiuni de dezvoltare pentru a-mi îmbunătăți atât abilitățile tehnice, cât și cele soft.
+
+Eddited in notepad++ using Github Desktop
